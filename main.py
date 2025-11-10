@@ -4,7 +4,7 @@ class car:
     \nCenu auta udáváme v DPH
     """
     
-    # Je možnost, kontrolovat si vstupní datové typy, které příjdou při instanci do objektu.
+    # Je možnost, kontrolovat si vlastnosti třídy, které příjdou při instanci do objektu.
     # Zamezíme tím případným potížím.
     def __init__(self, znacka: str, rok: int, model: str, barva: str,typ_prevodovky: str, cena: float):
         self.znacka = str(znacka)

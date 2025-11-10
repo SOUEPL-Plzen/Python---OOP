@@ -4,3 +4,4 @@
 # Vypište pomocí LOOP do terminálu všechny zaměstnance
 # Vypište k nim i jednu Vám zvolenou metodu.
 # Bonus - Základná vlastnost "ID" se generuje automaticky
+# Bonus 2 - Obsahuje metodu, která náhodně na 50 % umožní zaměstnanci zaspat.
